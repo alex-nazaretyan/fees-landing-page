@@ -35,6 +35,9 @@ p {
 .header-logo img {
     width: 150px;
 }
+.drop-down-menu-button{
+    display: none;
+}
 
 .main-section {
     background-color: #54546D;
