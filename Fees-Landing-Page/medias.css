@@ -88,6 +88,32 @@
         margin: 0 5px;
         font-size: 30px;
     }
-    
+    .info-section-borders{
+        font-size: 30px;
+    }
+    .post-bank-div-info h3{
+        text-align: center;
+        font-size: 30px ;
+    }
+    .post-bank-div-info{
+        margin: 0 auto;
+        font-size: 30px;
+    }
+    .post-bank-content{
+        display: block;
+        width: 780px;
+        text-align: center;
+    }
 
+}
+/*Footer section media query*/
+@media all and (min-width:360px) and (max-width: 780px) {
+    @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css");
+    
+    footer{
+        width: 780px;
+    }
+    footer p{
+        font-size: 25px;
+    }
 }
