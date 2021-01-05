@@ -76,5 +76,18 @@
     .third-div{
         margin-top: 0;
     }
+    .info-section-content{
+        width: 780px;
+    }
+    .info-section-content h3{
+        font-size: 35px;
+        text-align: center;
+    }
+    .info-p{
+        text-align: center;
+        margin: 0 5px;
+        font-size: 30px;
+    }
+    
 
 }
