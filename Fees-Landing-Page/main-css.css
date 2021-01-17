@@ -177,13 +177,13 @@ p {
 }
 
 .checks::after {
-    content: url(cross.svg);
+    content: url(images/cross.svg);
     position: relative;
     left: 150px;
 }
 
 .cross::after {
-    content: url(check.svg);
+    content: url(images/check.svg);
     position: relative;
     left: 150px;
 }
